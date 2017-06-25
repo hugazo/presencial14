@@ -43,6 +43,8 @@ def motor_seleccion(opcion, data)
   end
 end
 
+# Dialogos comunes en menu.
+
 def dialogo_menu
   "Ingrese una opcion:\n1) Ingresar nueva persona
 2) Editar los datos de una persona\n3) Eliminar una persona
